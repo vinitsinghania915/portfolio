@@ -96,7 +96,10 @@ export default function Experience() {
           <div className="space-y-12">
             {experiences.map((exp, index) => (
               <div key={index} className="relative pl-0 sm:pl-20">
-                <div className="absolute left-0 md:left-[1.6rem] top-6 hidden sm:flex items-center justify-center w-8 h-8 rounded-full bg-primary">
+                <div
+                  className="absolute left-0 md:left-[1.6rem] top-6 hidden sm:flex items-center justify-center w-8 h-8 rounded-full bg-primary"
+                  style={{ left: "16px" }}
+                >
                   <Briefcase className="h-4 w-4 text-primary-foreground" />
                 </div>
 
