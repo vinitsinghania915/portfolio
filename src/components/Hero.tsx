@@ -11,7 +11,7 @@ export default function Hero() {
   };
 
   const handleDownloadResume = () => {
-    window.open("/attached_assets/Vinit_Singhania_1759232015210.pdf", "_blank");
+    window.open("/Vinit_Singhania.pdf", "_blank");
   };
 
   return (
