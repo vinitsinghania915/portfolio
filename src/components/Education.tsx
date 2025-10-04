@@ -14,7 +14,7 @@ const education = [
     institution: "Baby Happy Modern Degree PG College",
     location: "Hanumangarh, India",
     year: "2015 – 2018",
-    grade: "Percentage: 70%",
+    grade: "CGPA: 7.3",
   },
 ];
 
