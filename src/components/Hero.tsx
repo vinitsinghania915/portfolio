@@ -39,7 +39,7 @@ export default function Hero() {
               className="text-xl md:text-2xl lg:text-3xl text-muted-foreground font-medium"
               data-testid="text-role"
             >
-              Principal Software Engineer
+              Software Engineer
             </p>
             <p
               className="text-base md:text-lg text-muted-foreground max-w-2xl mx-auto"
